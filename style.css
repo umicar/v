@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position:center ;
+}
+
+.heading{
+    width: 100%;
+    margin:0 ;
+    font-size: 25px;
+}
+#start,#status,#objects{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+.footer{
+    bottom: 0px;
+    font-size: 19px;
+    font-family:"fantasy";
+    background: pink;
+    color: red;
+    text-align: center;
+    line-height: 2;
+    position: fixed;
+    width: 100%;
+}
+
+canvas{
+    border: purple 2px solid;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px salmon;
+}
